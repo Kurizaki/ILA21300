@@ -2,11 +2,11 @@
 
 Wir möchten eine C# Konsolenapplikation Number guesser spiel programmieren womit man über eine LAN verbindung multiplayer spielen kann.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Keanu Koelewijn, Stefan Jesenko (Stefaanu)
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   |  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -14,14 +14,14 @@ Wir möchten eine C# Konsolenapplikation Number guesser spiel programmieren womi
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir machen ein Random Number guesser Spiel, das man im Multiplayer über Lan spielen kann.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Muss|Funktional|Als ein User möchte ich, dass das Programm eine Zufällige Zahl von 1-100 generiert, damit ich das Spiel spielen kann.|
+| 2    |Muss|Funktional|Als User möchte ich eine Zahl eingeben können, damit ich die Generierte Zahl erraten kann.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
