@@ -33,10 +33,22 @@ Wir machen ein Random Number guesser Spiel, das man im Multiplayer über Lan spi
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |Programm wurde gestartet.| - |Programm generiert eine zufällige Zahl zwischen 1-100|
+| 2.1  |zufällige Zahl wurde generiert.| - |Versuche Sie die zufällige Zahl zu erraten:|
+| 2.2  |zufällige Zahl wurde generiert.|31| - |
+| 3.1  |User hat eine Zahl eingegeben.| - | Die Zufällige Zahl ist höher.|
+| 3.2  |User hat eine Zahl eingegeben.| - | Die Zufällige Zahl ist kleiner.|
+| 4.1  |User hat eine Zahl eingegeben.| - | Gratulation Sie haben die Zahl erraten.|
+| 5.1  |User hat die Zahl richtig gerraten.| - | Sie haben 11 versuche gebraucht.|
+| 6.1  |Programm läuft|sajdfhlakdf| Falsche Eingabe!|
+| 7.1  |Programm läuft|User wählt Multiplayer modus.|Programm stellt Lan verbindung her.|
+| 7.2  |Lan verbindung ist hergestellt.|gibt IP des anderen Users ein.|Programm verbindet die User.|
+| 7.3  |Verbindung zwischen den Usern ist hergestellt.| - |Spiel kann jetzt abwechselnd gespeit werden.|
+| 8.1  |User hat Zahl richtig erraten.| - |Highscore wird angezeigt.|
+| 8.2  |User hat Zahl richtig erraten.| - |Highscore wird in einer Datei gespeichert.|
+| 9.1  |Programm existiert| - |Das Programm wurde objekt orientiert geschrieben.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
