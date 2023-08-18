@@ -20,12 +20,16 @@ Wir machen ein Random Number guesser Spiel, das man im Multiplayer über Lan spi
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |Muss|Funktional|Als ein User möchte ich, dass das Programm eine Zufällige Zahl von 1-100 generiert, damit ich das Spiel spielen kann.|
+| 1    |Muss|Funktional|Als User möchte ich, dass das Programm eine Zufällige Zahl von 1-100 generiert, damit ich das Spiel spielen kann.|
 | 2    |Muss|Funktional|Als User möchte ich eine Zahl eingeben können, damit ich die Generierte Zahl erraten kann.|
+| 3    |Muss|Funktional|Als User möchte ich das das Programm mir nach jedem versuch sagt ob mein versuch zu hoch oder zu tief war.|
+| 4    |Muss|Funktional|Als User möchte ich das das Programm mir sagt wenn ich die richtige Zahl erraten habe.|
+| 5    |Muss|Funktional|Als User möchte ich das mir gesagt wird wie viele versuche ich gebraucht habe, damit ich weiss wie gut ich war.|
+| 6    |Muss|Funktional|Als User möchte ich das das Programm fehlerhafte eingaben bemerkt und darauf reagiert, damit das Programm nicht immer abstürzt wenn es eine Fehlerhafteeingabe gibt.|
+| 7    |Muss|Funktional| Als ein User möchte ich, mit freunden über eine Lokale Verbindung gegeneinander spielen kann, damit, wir gegeinander spielen können.|
+| 8    |Muss|Funktional| Als ein User möchte ich, die möglichkeit haben meinen Highscore zu sehen, der Highscore soll in einem Dokument gespeichert werden und wieder aufgerufen werden können.|
+| 9    | Muss|Funktional| Ich kann einen Spielernamen eingeben der in der Highscore Liste gespeichert wird.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
-### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
