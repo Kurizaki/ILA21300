@@ -6,8 +6,8 @@ Keanu Koelewijn, Stefan Jesenko (Stefaanu)
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |  |
-|       | ...     |                                                              |
+|18.08.2023| 0.0.1   |Anfang des Projekts, 1-2 wurden aktualisiert.  |
+|25.08.2023| 0.0.2 | Realisiserung hat angefangen, abgeschlossene Arbeiten wurden Dokumentiert.|
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -84,8 +84,11 @@ Wir haben uns Entschieden, dass wir einen Randomn Number Guesser Spiel Programmi
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |25.08.2023|Keanu Koelewijn|10min|10min|
+| 2.A  |25.08.2023|Stefan Jesenko|20min|20min|
+| 3.A  |25.08.2023|Keanu Koelewijn|20min|20min|
+| 3.B  |25.08.2023|Stefan Jesenko|20min|10min|
+| 4.A  |25.08.2023|Keanu Koelewijn|20min|10min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
