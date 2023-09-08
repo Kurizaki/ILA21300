@@ -6,9 +6,10 @@ Keanu Koelewijn, Stefan Jesenko (Stefaanu)
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|18.08.2023| 0.0.1   |Anfang des Projekts, 1-2 wurden aktualisiert.  |
-|25.08.2023| 0.0.2 | Realisiserung hat angefangen, abgeschlossene Arbeiten wurden Dokumentiert.|
-|       | 1.0.0   |                                                              |
+|18.08.2023| 0.0.1 |Anfang des Projekts, 1-2 wurden aktualisiert.|
+|25.08.2023| 0.0.2 |Realisiserung hat angefangen, abgeschlossene Arbeiten wurden Dokumentiert.|
+|01.09.2023| 0.3.4 |Wir haben grundsätzlich unser Programm im Einzelspieler Fertig. Nur der Mehrspieler funktioniert noch nicht|
+|08.09.2023| 0.4.0 |Wir haben uns jetzt dazu entschieden das wir den Multiplayer nicht machen, weil es nicht in den zeitlichen Ramen passt.|
 
 ## 1 Informieren
 
@@ -89,8 +90,12 @@ Wir haben uns Entschieden, dass wir einen Randomn Number Guesser Spiel Programmi
 | 3.A  |25.08.2023|Keanu Koelewijn|20min|20min|
 | 3.B  |25.08.2023|Stefan Jesenko|20min|10min|
 | 4.A  |25.08.2023|Keanu Koelewijn|20min|10min|
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 5.A  |  |  |  |
+| 5.B  |  |  |  |
+| 6.A  |01.09.2023|Stefan Jesenko|30min|20min|
+| 8.A  |01.09.2023|Keanu Koelewijn|30min|60min|
+| 8.B  |08.09.2023|Keanu Koelewijn|20min|40min|
+ 
 
 ## 5 Kontrollieren
 
@@ -98,19 +103,25 @@ Wir haben uns Entschieden, dass wir einen Randomn Number Guesser Spiel Programmi
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |08.09.2023|OK|Stefan Jesenko|
+| 2.1  |08.09.2023|OK|Stefan Jesenko|
+| 2.2  |08.09.2023|OK|Stefan Jesenko|
+| 3.1  |08.09.2023|OK|Stefan Jesenko|
+| 3.2  |08.09.2023|OK|Stefan Jesenko|
+| 4.1  |08.09.2023|OK|Stefan Jesenko|
+| 5.1  |08.09.2023|NOK|Stefan Jesenko|
+| 6.1  |08.09.2023|OK|Stefan Jesenko|
+| 7.1  |08.09.2023|NOK|Stefan Jesenko|
+| 7.2  |08.09.2023|NOK|Stefan Jesenko|
+| 7.3  |08.09.2023|NOK|Stefan Jesenko|
+| 8.1  |08.09.2023|OK|Stefan Jesenko|
+| 8.2  |08.09.2023|OK|Stefan Jesenko|
+| 9.1  |08.09.2023|OK|Stefan Jesenko|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Es hat leider nicht geklappt den Multiplayer einzubauen. Es war etwas zu viel diesen in der begrenzten Zeit die wir hatten einzubauen. Wir werden nächstes mal besser Planen damit wir alles geplante auch umsetzen können.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
