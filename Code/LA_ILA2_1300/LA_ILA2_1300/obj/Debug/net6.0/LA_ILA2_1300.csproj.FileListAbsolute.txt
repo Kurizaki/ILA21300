@@ -1,0 +1,30 @@
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.exe
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.deps.json
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.runtimeconfig.json
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.dll
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.pdb
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.csproj.AssemblyReference.cache
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.AssemblyInfoInputs.cache
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.AssemblyInfo.cs
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.csproj.CoreCompileInputs.cache
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.dll
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\refint\LA_ILA2_1300.dll
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.pdb
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.genruntimeconfig.cache
+C:\Users\keanu\source\repos\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\ref\LA_ILA2_1300.dll
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.exe
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.deps.json
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.runtimeconfig.json
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.dll
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\bin\Debug\net6.0\LA_ILA2_1300.pdb
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.csproj.AssemblyReference.cache
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.AssemblyInfoInputs.cache
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.AssemblyInfo.cs
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.csproj.CoreCompileInputs.cache
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.dll
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\refint\LA_ILA2_1300.dll
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.pdb
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\LA_ILA2_1300.genruntimeconfig.cache
+C:\Users\keanu\Desktop\Stefan Liebe\LA_ILA2_1300\LA_ILA2_1300\obj\Debug\net6.0\ref\LA_ILA2_1300.dll
